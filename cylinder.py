@@ -6,7 +6,7 @@ import sys
 r = float(sys.argv[1])
 h = float(sys.argv[2])
 
-# Equation that gets the surface area of the dimensions of the square
+# Equation that will get the surface area of the dimensions of the square
 S = math.pi * 2 * r * (r + h)
 # Equation that gets the volume of the dimensions of the square
 V = math.pi * r**2 * h
